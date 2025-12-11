@@ -1,0 +1,11 @@
+{
+  "agents": [
+    {
+      "id": "koog-reviewer",
+      "name": "Koog Code Reviewer (MCP Edition)",
+      "command": "/Users/arthurhead/Desktop/code/a2a/a2a-tutorial/build/install/koog-reviewer/bin/koog-reviewer",
+      "args": ["acp"],
+      "env": {}
+    }
+  ]
+}
